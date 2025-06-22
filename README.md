@@ -118,6 +118,58 @@ Each component will be modular, reusable, and consistent across views.
 
 ---
 
+## Project Roles and Responsibilities
+
+Clearly defining roles helps streamline collaboration, increase productivity, and ensure that all aspects of the project are covered efficiently. Below is an overview of the core roles and their responsibilities within the AirBnB Clone project:
+
+### Project Manager
+- Oversees the overall project timeline and deliverables
+- Coordinates across all teams and ensures deadlines are met
+- Tracks progress, identifies risks, and implements mitigation strategies
+- Communicates project status to stakeholders
+
+### Frontend Developers
+- Build and implement responsive UI components using HTML, CSS, and JavaScript (React)
+- Ensure cross-browser compatibility and mobile responsiveness
+- Integrate APIs from the backend and handle user interactions
+- Follow component-based architecture and maintain UI consistency
+
+### Backend Developers
+- Design and develop RESTful APIs and business logic
+- Manage database schemas, queries, and data models
+- Handle user authentication, authorization, and security concerns
+- Ensure API scalability and performance
+
+### Designers
+- Create UI/UX mockups and prototypes using Figma
+- Define color schemes, typography, spacing, and visual hierarchy
+- Ensure consistency with design systems and accessibility standards
+- Conduct usability tests and iterate on feedback
+
+### QA/Testers
+- Write and maintain unit, integration, and end-to-end test cases
+- Perform manual and automated testing across browsers/devices
+- Identify bugs and inconsistencies and report them for resolution
+- Validate features against requirements before deployment
+
+### DevOps Engineers
+- Set up and manage CI/CD pipelines
+- Handle deployment to production and staging environments
+- Monitor application performance and server health
+- Ensure environment scalability, reliability, and uptime
+
+### Product Owner
+- Define project vision, scope, and user stories
+- Prioritize features and manage the product backlog
+- Ensure alignment with user needs and business goals
+- Provide clarifications and accept or reject feature deliveries
+
+### Scrum Master
+- Facilitate agile ceremonies (daily standups, sprint planning, retrospectives)
+- Remove blockers and improve team productivity
+- Encourage collaboration and adherence to agile principles
+- Maintain transparency and continuous improvement within the team
+
 ## Best Practices
 
 - Clean, modular code organization
